@@ -1,0 +1,26 @@
+{
+"name": "project-overviewjiangdongfulao",
+"version": "1.0.0",
+"description": "This project is designed to provide solutions to common problems encountered in daily life, offering practical and efficient methods to address them.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/loebfermin/Project-Overview.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "loebfermin",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
